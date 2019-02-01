@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="JiuWeather" />
+    <version value="1" />
+    <list>
+        <mapping class="me.jiujhsl.jiuweather.db.Province" />
+        <mapping class="me.jiujhsl.jiuweather.db.City" />
+        <mapping class="me.jiujhsl.jiuweather.db.County" />
+    </list>
+</litepal>
